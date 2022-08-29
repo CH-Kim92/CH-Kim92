@@ -1,4 +1,23 @@
-### Hi there 👋
+### Changhyun Kim 👋
+
+<h2>👨‍💻 Projects and Study code</h2>
+
+- <b> Computer vision </b>
+  - [People counting](https://github.com/CH-Kim92/peopleCounting)
+- <b>Full Stack Web App (React, Django)</b>
+  - [Swaperty](https://github.com/CH-Kim92/swaperty_webapplication) <b><i>(Potentially NSFW)</b></i>
+- <b>python</b>
+  - [Music data scatter](https://github.com/CH-Kim92/musicData)
+  - [Probability](https://github.com/CH-Kim92/Probability)
+
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: www.linkedin.com/in/kimchanghyun
+
+
 
 <!--
 **CH-Kim92/CH-Kim92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
