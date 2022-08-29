@@ -5,7 +5,7 @@
 - <b> Computer vision </b>
   - [People counting](https://github.com/CH-Kim92/peopleCounting)
 - <b>Full Stack Web App (React, Django)</b>
-  - [Swaperty](https://github.com/CH-Kim92/swaperty_webapplication) <b><i>(Potentially NSFW)</b></i>
+  - [Swaperty](https://github.com/CH-Kim92/swaperty_webapplication)
 - <b>python</b>
   - [Music data scatter](https://github.com/CH-Kim92/musicData)
   - [Probability](https://github.com/CH-Kim92/Probability)
