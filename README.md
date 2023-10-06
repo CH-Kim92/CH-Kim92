@@ -2,6 +2,9 @@
 
 <h2>👨‍💻 Projects and Study code</h2>
 
+- <b> Robotics </b>
+  - [Cooperative multi-agent](https://github.com/CH-Kim92/IRproject)
+  - [Object-following drone navigation system](https://github.com/CH-Kim92/CsProject)
 - <b> Computer vision </b>
   - [People counting](https://github.com/CH-Kim92/peopleCounting)
 - <b>Full Stack Web App (React, Django)</b>
